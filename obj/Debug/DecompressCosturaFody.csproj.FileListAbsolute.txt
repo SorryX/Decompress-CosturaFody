@@ -1,7 +1,0 @@
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\obj\Debug\DecompressCosturaFody.csprojAssemblyReference.cache
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\obj\Debug\DecompressCosturaFody.csproj.CoreCompileInputs.cache
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\bin\Debug\DecompressCosturaFody.exe.config
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\bin\Debug\DecompressCosturaFody.exe
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\bin\Debug\DecompressCosturaFody.pdb
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\obj\Debug\DecompressCosturaFody.exe
-C:\Users\sorryxd\source\repos\DecompressCosturaFody\DecompressCosturaFody\obj\Debug\DecompressCosturaFody.pdb

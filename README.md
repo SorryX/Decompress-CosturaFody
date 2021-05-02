@@ -7,4 +7,4 @@ and uses the same way costura fody decompresses it and gives you the original dl
 
 ## Anything required
 Windows is required and updated windows
-you probably can use linux and mac using .net core but i wont.
+you probably can use linux and mac using .net core but i wont and cant compile them
